@@ -29,6 +29,6 @@ Repeat steps + 1 times:
     y = y + yIncrement
 
     
-## Aishwarya Kumar Singh
+## LAYAK RATHORE
 ## Lab - 02
-## IC-2K24-08
+## IC-2K24-52
