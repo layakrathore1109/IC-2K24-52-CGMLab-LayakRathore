@@ -5,8 +5,8 @@
  * to implement the Digital Differential Analyzer (DDA) Line Drawing
  * Algorithm to draw a straight line between two given points.
  *
- * SUBMITTED BY : AISHWARYA KUMAR SINGH
- * Roll No      : IC-2K24-08
+ * SUBMITTED BY : LAYAK RATHORE
+ * Roll No      : IC-2K24-52
 */
 
 #include <graphics.h>
@@ -114,7 +114,7 @@ int main()
 
     outtextxy(190, 55, (char*)"DDA Line Drawing Algorithm");
     outtextxy(140, 80,
-              (char*)"Name: Aishwarya Kumar Singh | Roll No: IC-2K24-08");
+              (char*)"Name: LAYAK RATHORE | Roll No: IC-2K24-52");
 
     // Draw boundary of drawing area
     setcolor(RED);

@@ -4,11 +4,11 @@
  *           the Digital Differential Analyzer (DDA) Line Drawing Algorithm to
  *           draw a straight line between two given points.
  *
- * SUBMITTED BY : AISHWARYA KUMAR SINGH
- * Roll No      : IC-2K24-08
+ * SUBMITTED BY : LAYAK RATHORE
+ * Roll No      : IC-2K24-52
  */
 
-#include <graphics.h>
+#include <winbgim.h>
 #include <conio.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -61,7 +61,7 @@ int main()
 
     /* Name */
     setcolor(WHITE);
-    outtextxy(140, 30, (char*)"Name: Aishwarya Kumar Singh  |  Roll No: IC-2K24-08");
+    outtextxy(140, 30, (char*)"Name: LAYAK RATHORE  |  Roll No: IC-2K24-52");
 
     /* DDA line */
     ddaLine(x1, y1, x2, y2, WHITE);
