@@ -79,6 +79,7 @@ int main()
         y1 < 110 || y1 > 430 || y2 < 110 || y2 > 430)
     {
         printf("\nCoordinates must be within the drawing area!\n");
+        getch();
         return 0;
     }
 

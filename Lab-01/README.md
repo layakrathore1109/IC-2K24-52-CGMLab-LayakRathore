@@ -12,4 +12,4 @@ Triangle
 
 
 ## LAYAK RATHORE
-## IC-2K24-08
+## IC-2K24-52
